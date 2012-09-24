@@ -5,7 +5,7 @@ My Repository of Codes
 
 =========================
 
-Copyright (c) 2012, Regents of the University of California.
+Copyright (c) 2012, Lance Angelo R. Andres
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
