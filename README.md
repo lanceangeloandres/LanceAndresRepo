@@ -4,7 +4,7 @@ LanceAndresRepo
 My Repository of Codes
 
 =========================
-
+BSD License
 Copyright (c) 2012, Lance Angelo R. Andres
 All rights reserved.
 
